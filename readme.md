@@ -22,6 +22,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 
 ## Network Analytics
 - https://ethstats.net/
+- https://bitinfocharts.com/ethereum/
 
 
 Submit a PR to make a contribution. 
