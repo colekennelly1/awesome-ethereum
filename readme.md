@@ -18,6 +18,8 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 ## Block Explorers
 - https://etherscan.io/
 - https://etherchain.org/
+- https://ethplorer.io/
+- https://blockscout.com/eth/mainnet
 
 ## ERC20
 - https://app.santiment.net/assets/erc20
