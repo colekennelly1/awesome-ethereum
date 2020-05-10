@@ -12,7 +12,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - [Gas](#gas)
 - [Market Data](#market-data)
 - [Network Analytics](#network-analytics)
-- (Visualizations)(#visualizations)
+- [Visualizations](#visualizations)
 
 
 ## Block Explorers
@@ -23,6 +23,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 
 ## ERC20
 - https://app.santiment.net/assets/erc20
+- https://amberdata.io/dashboards/applications
 
 ## Gas
 - https://ethgasstation.info
