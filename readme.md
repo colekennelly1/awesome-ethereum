@@ -9,6 +9,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 ## Contents
 - [Block Explorers](#block-explorers)
 - [ERC20](#erc20)
+- [ERC721](#erc721)
 - [Gas](#gas)
 - [Market Data](#market-data)
 - [Network Analytics](#network-analytics)
@@ -22,8 +23,12 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://blockscout.com/eth/mainnet
 
 ## ERC20
+- https://etherscan.io/tokens
 - https://app.santiment.net/assets/erc20
 - https://amberdata.io/dashboards/applications
+
+## ERC721
+- https://etherscan.io/tokens-nft
 
 ## Gas
 - https://ethgasstation.info
