@@ -27,6 +27,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://app.santiment.net/assets/erc20
 - https://amberdata.io/dashboards/applications
 - https://bloxy.info/list_tokens/ERC20
+- https://defimarketcap.io/protocol/erc20
 
 ## ERC721
 - https://etherscan.io/tokens-nft
