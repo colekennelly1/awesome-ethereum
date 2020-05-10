@@ -28,6 +28,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 ## Gas
 - https://ethgasstation.info
 - https://gitcoin.co/gas/history
+- https://etherscan.io/gasTracker
 
 ## Market Data
 - https://www.coingecko.com/en/coins/ethereum
