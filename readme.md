@@ -12,7 +12,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - [Gas](#gas)
 - [Market Data](#market-data)
 - [Network Analytics](#network-analytics)
-- [Visualizations)(#visualizations)
+- (Visualizations)(#visualizations)
 
 
 ## Block Explorers
