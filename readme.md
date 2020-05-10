@@ -10,6 +10,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - [Block Explorers](#block-explorers)
 - [ERC20](#erc20)
 - [Gas](#gas)
+- [Market Data](#market-data)
 - [Network Analytics](#network-analytics)
 - [Visualizations)(#visualizations)
 
@@ -24,6 +25,9 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 ## Gas
 - https://ethgasstation.info
 - https://gitcoin.co/gas/history
+
+## Market Data
+- https://www.coingecko.com/en/coins/ethereum
 
 ## Network Analytics
 - https://ethstats.net/
