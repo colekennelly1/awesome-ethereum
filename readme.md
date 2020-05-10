@@ -26,9 +26,11 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://etherscan.io/tokens
 - https://app.santiment.net/assets/erc20
 - https://amberdata.io/dashboards/applications
+- https://bloxy.info/list_tokens/ERC20
 
 ## ERC721
 - https://etherscan.io/tokens-nft
+- https://bloxy.info/list_tokens/ERC721
 
 ## Gas
 - https://ethgasstation.info
@@ -44,6 +46,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://ethstats.io/
 - https://ethstats.net/
 - https://amberdata.io/dashboards/infrastructure
+- https://stat.bloxy.info/superset/dashboard/today/?standalone=true
 
 ## Visualizations
 - http://www.ethviewer.live/
