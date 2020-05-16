@@ -37,7 +37,10 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://ethgasstation.info
 - https://gitcoin.co/gas/history
 - https://etherscan.io/gasTracker
+- http://frontrun.me/
 - https://stat.bloxy.info/superset/dashboard/gas/?standalone=true
+- https://docs.amberdata.io/reference#get-gas-predictions
+- https://docs.amberdata.io/reference#get-gas-percentiles
 
 ## Market Data
 - https://www.coingecko.com/en/coins/ethereum
