@@ -41,6 +41,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://stat.bloxy.info/superset/dashboard/gas/?standalone=true
 - https://docs.amberdata.io/reference#get-gas-predictions
 - https://docs.amberdata.io/reference#get-gas-percentiles
+- https://explore.duneanalytics.com/dashboard/gas-prices
 
 ## Market Data
 - https://www.coingecko.com/en/coins/ethereum
