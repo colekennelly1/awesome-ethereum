@@ -28,6 +28,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://amberdata.io/dashboards/applications
 - https://bloxy.info/list_tokens/ERC20
 - https://defimarketcap.io/protocol/erc20
+- https://blockchair.com/ethereum/erc-20
 
 ## ERC721
 - https://etherscan.io/tokens-nft
