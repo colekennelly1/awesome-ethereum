@@ -43,6 +43,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://docs.amberdata.io/reference#get-gas-predictions
 - https://docs.amberdata.io/reference#get-gas-percentiles
 - https://explore.duneanalytics.com/dashboard/gas-prices
+- https://explore.duneanalytics.com/dashboard/gas-tokens
 
 ## Market Data
 - https://www.coingecko.com/en/coins/ethereum
